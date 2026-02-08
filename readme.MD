@@ -145,7 +145,7 @@ git add <file-name> This tells Git the conflict has been fixed.
 
 ## Interview One-Liner
 
-`A Git conflict occurs when Git cannot automatically merge changes because the same lines were modified differently. Conflicts are resolved by manually editing the file, staging the fix, and completing the merge or rebase.`
+**A Git conflict occurs when Git cannot automatically merge changes because the same lines were modified differently. Conflicts are resolved by manually editing the file, staging the fix, and completing the merge or rebase.**
 
 
 
