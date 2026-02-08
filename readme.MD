@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="git.svg">
+</p>
+
+
+
 # Git Pull Request Merge Strategies — Quick Notes
 
 ## 1. Merge Pull Request (Create a merge commit)
