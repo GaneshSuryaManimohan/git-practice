@@ -15,6 +15,15 @@
 
 ---
 
+
+### Example: `git log --oneline --graph`
+
+```bash
+git log --oneline --graph
+
+
+---
+
 ## 2. Rebase & Merge Pull Request
 
 - **No merge commit** is created
